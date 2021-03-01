@@ -1,0 +1,15 @@
+{
+  "name": "kampusindonesia_frontend-78a04beea41dece51526a3306c08eee03905e425",
+  "version": "1.0.0",
+  "description": "Website Kampus Indonesia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "http-server ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
